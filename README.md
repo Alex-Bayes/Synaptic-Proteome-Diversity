@@ -46,5 +46,3 @@ Source_data_8_pathfinR_analysis_DE_genes_Neuronal_types.r: R script to perform t
 We have also included a test set (see test_set folder) to explore how we call and identify differentially expressed synaptic genes. This test set include expression data among neuronal types from the CA3 class.
 
 If you require more information on how to operate these do not hesitate contacting us: Àlex Bayés: abayesp@santpau.cat
-![image](https://github.com/Alex-Bayes/Synaptic-Proteome-Diversity/assets/63368495/d7f38bf1-dbcb-44f9-82f4-6c32a4146685)
-
