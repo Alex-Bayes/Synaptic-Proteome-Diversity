@@ -1,4 +1,4 @@
-#Code to split Allen Brain atlas transcriptomic data from excitatory neurons into classes.
+#Code to split Allen Brain atlas transcriptomic data from excitatory neurons.
 library(stringr)
 library(dplyr)
 
