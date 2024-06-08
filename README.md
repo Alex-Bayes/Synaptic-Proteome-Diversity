@@ -1,5 +1,5 @@
 # Synaptic-Proteome-Diversity
-This repository includes the code develop for the scientifc article entiteled 'Synaptic proteome diversity is primarily driven by gene regulation of glutamate receptors and their regulatory proteins'.
+This repository includes the code develop for the scientifc article entiteled 'Synaptic proteome diversity is primarily driven by gene regulation of glutamate receptors and their regulatory proteins'. This work is freely available at the preprint repository bioRxiv, which can be downloaded from the following link: https://www.biorxiv.org/content/10.1101/2024.04.04.588090v1
 
 Article Abstract,
 
