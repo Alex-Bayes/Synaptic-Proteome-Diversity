@@ -7,7 +7,7 @@ Electrophysiological features of excitatory synapses vary widely throughout the 
 
 Authors and Affiliations,
 
-Rita Reig-Viader1,2*, Diego del Castillo-Berges1,2*, Albert Burgas-Pau1,2,3,4*, Daniel Arco-Alonso1*, David Ramos-Vicente1,5, Carlos Sindreu6, Àlex Bayés1,2#
+Rita Reig-Viader1,2*, Diego del Castillo-Berges1,2*, Albert Burgas-Pau1,2,3,4*, Daniel Arco-Alonso1*, David Ramos-Vicente1,5, Carlos Sindreu6, Àlex Bayés1,2
 
 1.	Molecular Physiology of the Synapse Laboratory, Institut de Recerca Sant Pau (IR Sant Pau), Barcelona, Spain.
 2.	Universitat Autònoma de Barcelona (UAB), Bellaterra (Cerdanyola del Vallès), Spain.
@@ -16,8 +16,9 @@ Rita Reig-Viader1,2*, Diego del Castillo-Berges1,2*, Albert Burgas-Pau1,2,3,4*, 
 5.	Neurodegenerative Diseases Research Group, Vall d’Hebron Research Institute, Centre for Networked Biomedical Research on Neurodegenerative Diseases (CIBERNED), Barcelona, Catalonia, Spain.
 6.	Institut d'Investigacions Biomèdiques August Pi i Sunyer (IDIBAPS), Barcelona, Spain.
 
-* These authors contributed equally to the work 
-# Corresponding author:
-
-Àlex Bayés, Molecular Physiology of the Synapse Laboratory, Institut de Recerca Sant Pau (IR Sant Pau), Barcelona, Spain., C/Sant Quintí, 77-79, 08041 Barcelona, Spain.
+* Equal correspondance
+   
+Corresponding author: Àlex Bayés, Molecular Physiology of the Synapse Laboratory, Institut de Recerca Sant Pau (IR Sant Pau), Barcelona, Spain., C/Sant Quintí, 77-79, 08041 Barcelona, Spain.
 Email: abayesp@santpau.cat 
+
+# Information of code files
