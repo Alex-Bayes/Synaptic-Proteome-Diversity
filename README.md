@@ -21,7 +21,7 @@ Rita Reig-Viader1,2*, Diego del Castillo-Berges1,2*, Albert Burgas-Pau1,2,3,4*, 
 Corresponding author: Àlex Bayés, Molecular Physiology of the Synapse Laboratory, Institut de Recerca Sant Pau (IR Sant Pau), Barcelona, Spain., C/Sant Quintí, 77-79, 08041 Barcelona, Spain.
 Email: abayesp@santpau.cat 
 
-# Information on files in thsi repository:
+# Information on files in this repository:
 
 In this repository we have deposited files relevant to the above-mentioned manuscript. This code allows to perform all bioinformatic analysis performed in the manuscript. 
 
