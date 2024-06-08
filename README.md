@@ -21,4 +21,30 @@ Rita Reig-Viader1,2*, Diego del Castillo-Berges1,2*, Albert Burgas-Pau1,2,3,4*, 
 Corresponding author: Àlex Bayés, Molecular Physiology of the Synapse Laboratory, Institut de Recerca Sant Pau (IR Sant Pau), Barcelona, Spain., C/Sant Quintí, 77-79, 08041 Barcelona, Spain.
 Email: abayesp@santpau.cat 
 
-# Information of files
+# Information on files in thsi repository:
+
+In this repository we have deposited files relevant to the above-mentioned manuscript. This code allows to perform all bioinformatic analysis performed in the manuscript. 
+
+Short description on the porpouse of each file:
+
+Source_Data_1_Iteration_Classes.R: R script to iterate the statistical analysis performed with Seurat to identify genes differentially expressed between neuronal classes.
+
+Source_Data_2_Iteration_Types.R: R script to iterate the statistical analysis performed with Seurat to identify genes differentially expressed between neuronal types.
+
+Source_Data_3_Analysis_Classes.R: R script to generate data tables and graphs for genes differentially expressed between neuronal classes.  
+
+Source_Data_4_Analysis_Types_CA3.R: R script to generate data tables and graphs for genes differentially expressed between neuronal Types in the CA3 Class. In the test_set folder you can find the dataset of DE genes between CA3 neurons that will allow to test this code. 
+
+Source_Data_5_Split_Types.R: R script to obtained data from a subset of neuronal types from the entire transcriptomic database provided by the ABCA.
+
+Source_Data_6_ Random_Forest_Umaps.ipynb: Python code to perform the Random Forest analysis on transcriptomic data from the ABCA.
+
+Source_data_7_pathfinR_analysis_DE_Genes_Neuronal_Classes.r: R script to perform the pathfinder analysis and to generate the heatmaps from transcriptomics data of neuronal classes (ABCA).
+
+Source_data_8_pathfinR_analysis_DE_genes_Neuronal_types.r: R script to perform the pathfinder analysis and to generate the heatmaps from transcriptomics data of neuronal types (ABCA).
+
+We have also included a test set (see test_set folder) to explore how we call and identify differentially expressed synaptic genes. This test set include expression data among neuronal types from the CA3 class.
+
+If you require more information on how to operate these do not hesitate contacting us: Àlex Bayés: abayesp@santpau.cat
+![image](https://github.com/Alex-Bayes/Synaptic-Proteome-Diversity/assets/63368495/d7f38bf1-dbcb-44f9-82f4-6c32a4146685)
+
