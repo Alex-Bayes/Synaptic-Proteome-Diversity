@@ -1,1 +1,15 @@
+The three files deposited here allow you to follow the pipeline used to carry out the iteration process performed with Seurat to identify differentially expressed genes between the different neuronal types of the same class. Due to the enormous volume of data of the different classes, we have made available to the user as an example the PSD expression data of the neuronal types of CA3 class.
 
+Briefly, the files contain:
+- annot_CA3.RDS: the metadata of the neurons belonging to CA3, where the name of the sample, the neuronal type to which it belongs, among others, are indicated.
+- prot_PSD_df_CA3: the matrix with the raw expression data of each gene belonging to the PSD for the different neurons of the CA3 class.
+- samps_CA3: the name of the CA3 class neurons.
+
+The script to use for the iteration process and differential expression analysis is number 2 (Source_Data_2_Iteration_Types.R). The output provided (Output_Types.RDS) must be subsequently processed using script number 4 (Source_data_4_Data_analysis_Type_CA3.R) to treat the data and be able to draw biological conclusions from the initial data, through the different tables and graphs that are generated.
+
+ *WARNING! The Seurat package was updated to version 5 on 2024-05-10. The new version of the package includes modifications to the differential expression analysis that result in higher logFC estimates, which significantly increases the number of differentially expressed genes when compared to the results obtained for our paper. The various analyzes that comprise the paper were performed using version 4.3 of the Seurat package. We recommend using the older version 4.3 to reproduce our methods.
+
+More information about the update can be found at the following link:
+https://satijalab.org/seurat/articles/announcements.html
+Version 4.3 of the Seurat package can be found at the following link:
+https://satijalab.r-universe.dev/Seurat
