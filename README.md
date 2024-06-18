@@ -43,6 +43,6 @@ Source_data_7_pathfinR_analysis_DE_Genes_Neuronal_Classes.r: R script to perform
 
 Source_data_8_pathfinR_analysis_DE_genes_Neuronal_types.r: R script to perform the pathfinder analysis and to generate the heatmaps from transcriptomics data of neuronal types (ABCA).
 
-We have also included a test set (see test_set folder) to explore how we call and identify differentially expressed synaptic genes. This test set include expression data among neuronal types from the CA3 class.
+We have also included a test set (see test_set folder) to explore how we call and identify differentially expressed synaptic genes. This test set includes expression data of synaptic genes among neuronal types from the CA3 class.
 
 If you require more information on how to operate these do not hesitate contacting us: Àlex Bayés: abayesp@santpau.cat
